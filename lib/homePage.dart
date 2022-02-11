@@ -37,7 +37,7 @@ class _HomePageState extends State<HomePage> {
   double total = 0;
   double totalPaypal = 0;
   double totalTarjeta = 0;
-  String cantDonar = '100';
+  String cantDonar = '';
 
   @override
   void initState() {
